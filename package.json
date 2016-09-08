@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "todo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnold-j83/angular-todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "john arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnold-j83/angular-todo/issues"
+  },
+  "homepage": "https://github.com/arnold-j83/angular-todo#readme"
+}
